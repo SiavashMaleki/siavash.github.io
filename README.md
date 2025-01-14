@@ -48,12 +48,12 @@
   istanbul and tbilisi.
 
 ## About
-Experienced Machine Learning (ML) engineer with over 5 years of expertise in data analysis, optimization, and research in Generative AI. Continuously learning to stay abreast of the latest trends in data science. Notable projects include developing generative models for fault detection in medical devices, achieving 97% accuracy, and enhancing a multilingual transformer-based Text-to-Speech (TTS) system for low-resource languages, which achieved a mean opinion score of 4.2 out of 5 in 6 months through innovative approaches. Led brainstorming sessions to identify new opportunities in testing automation, reducing testing time by 40%. Implemented and maintained a speech conversation chatbot, improving user experience by 40% through effective MLOps deployment and management.
-## Contact Information
+- As a passionate computer science professional with a strong foundation in software development and data analytics, I am driven by a deep curiosity to explore the intersection of technology and intelligence. Throughout my career, I have designed and implemented innovative systems, such as custom CRMs, production cost analysis tools, and customer portals, which leveraged data-driven insights to improve performance and efficiency across industries.
+
+- My hands-on experience in reverse engineering legacy systems, developing machine learning solutions for KPI optimization, and automating workflows has equipped me with the technical expertise and problem-solving mindset required to tackle complex challenges. In particular, I have a keen interest in leveraging machine learning techniques for predictive modeling, natural language processing, and decision-making systems.
+
+- Pursuing a Master’s degree in Computer Science with a focus on Machine Learning aligns perfectly with my aspiration to contribute to cutting-edge research and create transformative solutions. I am eager to deepen my theoretical understanding, collaborate with researchers, and further advance the applications of AI in addressing real-world problems.## Contact Information
 - **Mobile:** +989124332437
 - **Email:** [maleki,siavash@gmail.com](mailto:maleki.siavash@gmail.com)
-- **LinkedIn:** [Bahareh Arghavani Nobar](https://www.linkedin.com/in/bahareh-arghavan/)
-- **Hugging Face Space:** [Visit my Hugging Face Space](https://huggingface.co/barghavani)
--  **Github:** [https://github.com/barghavanii](https://github.com/barghavanii)
+-  **Github:** [https://github.com/SiavashMaleki](https://github.com/SiavashMaleki)
 
-Feel free to reach out for collaborations or inquiries!
