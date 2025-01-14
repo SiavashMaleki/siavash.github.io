@@ -1,4 +1,3 @@
 title: Siavash Maleki
-description: Machine learning engineer, Data scientist,
-show_downloads: true
-remote_theme: ankitsultana/researcher@gem
+description: Machine learning engineer, Data scientist, 
+theme: jekyll-theme-minimal
