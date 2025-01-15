@@ -8,7 +8,7 @@
 - Databases: Redis, MongoDB, MySQL, NoSQL, SQLite
 
 ## Education
-- B.S., Computer Science | The University of Kharazmi, September 2014
+- B.S., Computer Science @ The University of Kharazmi, September 2014
 
 ## Work Experience
 ### Senior Developer @ Jahanshahr (October 2020 - Present)
