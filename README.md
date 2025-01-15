@@ -52,7 +52,11 @@
 
 - My hands-on experience in reverse engineering legacy systems, developing machine learning solutions for KPI optimization, and automating workflows has equipped me with the technical expertise and problem-solving mindset required to tackle complex challenges. In particular, I have a keen interest in leveraging machine learning techniques for predictive modeling, natural language processing, and decision-making systems.
 
-- Pursuing a Master’s degree in Computer Science with a focus on Machine Learning aligns perfectly with my aspiration to contribute to cutting-edge research and create transformative solutions. I am eager to deepen my theoretical understanding, collaborate with researchers, and further advance the applications of AI in addressing real-world problems.## Contact Information
+- Pursuing a Master’s degree in Computer Science with a focus on Machine Learning aligns perfectly with my aspiration to contribute to cutting-edge research and create transformative solutions. I am eager to deepen my theoretical understanding, collaborate with researchers, and further advance the applications of AI in addressing real-world problems.
+
+  
+## Contact Information.
+  
 - **Mobile:** +989124332437
 - **Email:** [maleki,siavash@gmail.com](mailto:maleki.siavash@gmail.com)
 -  **Github:** [https://github.com/SiavashMaleki](https://github.com/SiavashMaleki)
