@@ -58,6 +58,6 @@
 ## Contact Information.
   
 - **Mobile:** +989124332437
-- **Email:** [maleki,siavash@gmail.com](mailto:maleki.siavash@gmail.com)
+- **Email:** [maleki.siavash@gmail.com](mailto:maleki.siavash@gmail.com)
 -  **Github:** [https://github.com/SiavashMaleki](https://github.com/SiavashMaleki)
 
