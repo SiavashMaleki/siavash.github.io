@@ -9,6 +9,9 @@
 
 ## Education
 - B.S., Computer Science @ The University of Kharazmi, September 2014
+- Courses Completed: Algorithms, Cryptography, Advanced Algorithms, Linear Algebra, Statistics, Linear Optimization, Artificial Intelligence, Operating Systems
+- Milestone Project: CT Scan Anomaly Detection: Designed and implemented a system to read CT scans and identify anomalies using simple regression methods. The project involved preprocessing medical imaging data, applying statistical regression techniques, and analyzing results to detect irregularities efficiently. The solution demonstrated accuracy and scalability, showcasing its potential for assisting in early diagnosis and medical research.
+
 
 ## Work Experience
 ### Senior Developer @ Jahanshahr (October 2020 - Present)
