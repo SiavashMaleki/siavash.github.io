@@ -2,7 +2,7 @@
 
 ## Technical Skills
 - Programming languages: Javascript, Python
-- Libraries and Frameworks: React, nextjs, Numpy, Pandas, PyTorch, Scikit-​learn, SciPy
+- Libraries and Frameworks: React, nextjs, Numpy, Pandas, PyTorch, Scikit-​learn, SciPy, Tensorflow
 - Skills: A/​B ​Testing, Algorithms, Artificial ​intelligence, Big ​Data, Data ​Mining, Data ​Modeling, Debugging, Deep ​Learning ​Methods, End-​point ​Deployment, langchain ​, Linear ​regression, Llama2, Logistic ​regression, Statistics, Optimization, Linear Optimization,
 - Business: KPI analysis, Orginazation structure, operation QC with ai, CRM, Data Visualization (Power BI), Data-Driven Decision Making, Business Process Optimization, A/B Testing
 - Databases: Redis, MongoDB, MySQL, NoSQL, SQLite
